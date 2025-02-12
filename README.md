@@ -4,6 +4,10 @@
 
 **CodeVault** is a collection of knowledge repositories designed to help developers master fundamental programming concepts and advanced topics through practical examples. This repository serves as a central hub linking curated repositories for learning programming with some practical examples.
 
+## Quick Links:
+- [Solidity Practice Repository](https://github.com/likith-sg/Solidity-Practice)
+- [C Programming & DSA Repository](https://github.com/likith-sg/C)
+
 ## Knowledge Repositories
 
 ### 1. [Solidity Practice Repository](https://github.com/likith-sg/Solidity-Practice)
