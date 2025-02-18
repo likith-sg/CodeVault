@@ -7,6 +7,7 @@
 ## Quick Links:
 - [Solidity Practice Repository](https://github.com/likith-sg/Solidity-Practice)
 - [C Programming & DSA Repository](https://github.com/likith-sg/C)
+- [Rust Practice Repository](https://github.com/NithinS74/Rust-practice-code)
 
 ## Knowledge Repositories
 
@@ -22,6 +23,12 @@
 - Includes sorting algorithms, linked lists, stacks, queues, trees, graphs.
 - Designed for beginners and intermediate programmers who are learning Data Structures.
 
+### 3. [Rust Practice Repository](https://github.com/NithinS74/Rust-practice-code)
+- Introduces Rust, a powerful systems programming language.
+- Covers fundamental to advanced Rust programming concepts.
+- Includes algorithms, data structures, and Rust-specific features like ownership, borrowing, and pattern matching.
+- Provides guidance on setting up a Rust development environment and running Rust programs.
+
 ## How to Use This Repository
 
 1. **Explore the Linked Repositories:**
@@ -32,6 +39,7 @@
    ```sh
    git clone https://github.com/likith-sg/Solidity-Practice.git
    git clone https://github.com/likith-sg/C.git
+   git clone https://github.com/NithinS74/Rust-practice-code.git
    ```
 
 3. **Enhance Your Learning:**
@@ -49,3 +57,4 @@ This repository and linked repositories follow their respective licenses. Please
 - [Solidity by Example](https://solidity-by-example.org/)
 - [GeeksforGeeks - C Programming](https://www.geeksforgeeks.org/c-programming-language/)
 - [Nomic Labs Hardhat](https://hardhat.org/)
+- [The Rust Programming Language (The Book)](https://doc.rust-lang.org/book/)
